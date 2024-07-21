@@ -9,11 +9,13 @@ This project aims to predict house prices based on their square footage, number 
 5. Predictions
 6. Performance Metrics Evaluation
 
+
 ## Data Files
 
 - `train.csv`: Training dataset
 - `test.csv`: Test dataset
 - `sample_submission.csv`: Sample submission file
+
 
 ## Steps to Run the Notebook
 
